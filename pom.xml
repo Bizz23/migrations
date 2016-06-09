@@ -24,7 +24,7 @@
   </parent>
 
   <artifactId>mybatis-migrations</artifactId>
-  <version>3.2.0</version>
+  <version>3.2.0.1</version>
 
   <name>MyBatis Migrations</name>
   <url>http://www.mybatis.org/migrations/</url>
